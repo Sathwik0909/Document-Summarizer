@@ -1,7 +1,12 @@
-📘 Document Summary Assistant
+📘 Document Summary Assistant           
 
 A fully responsive web app that allows users to upload PDF/Image documents, extract text using OCR/PDF parsing, and generate AI-powered summaries using Google Gemini 2.5 Flash-Lite.
 Recent documents and extracted summaries are stored using Supabase.
+
+🔗 Live Demo (Vercel)
+
+🚀 Try the app here:
+👉 https://document-summarizer-red.vercel.app/
 
 ✨ Features
 📄 Document Upload
